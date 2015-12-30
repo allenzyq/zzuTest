@@ -43,8 +43,6 @@
     NSLog(@"SB   171000");
     NSLog(@"SB1 0000000000 ");
 
-
-    // Override point for customization after application launch.
     return YES;
 }
 
