@@ -17,6 +17,7 @@
 		0AAD1ACA1C33CEFF0091CF16 /* ZZURecordUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1AC91C33CEFF0091CF16 /* ZZURecordUITests.m */; };
 		0AAD1AD91C33CF4C0091CF16 /* WFClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1AD81C33CF4C0091CF16 /* WFClass.m */; };
 		A7F88E381C33DC6F00E887DD /* JGHClass.m in Sources */ = {isa = PBXBuildFile; fileRef = A7F88E371C33DC6F00E887DD /* JGHClass.m */; };
+		BC2075AD1C33DD0800FFC688 /* CLClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC2075AC1C33DD0800FFC688 /* CLClass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		0AAD1AD81C33CF4C0091CF16 /* WFClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WFClass.m; sourceTree = "<group>"; };
 		A7F88E361C33DC6F00E887DD /* JGHClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JGHClass.h; sourceTree = "<group>"; };
 		A7F88E371C33DC6F00E887DD /* JGHClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JGHClass.m; sourceTree = "<group>"; };
+		BC2075AB1C33DD0800FFC688 /* CLClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLClass.h; sourceTree = "<group>"; };
+		BC2075AC1C33DD0800FFC688 /* CLClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CLClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +112,8 @@
 			children = (
 				0AAD1AA71C33CEFF0091CF16 /* AppDelegate.h */,
 				0AAD1AA81C33CEFF0091CF16 /* AppDelegate.m */,
+				BC2075AB1C33DD0800FFC688 /* CLClass.h */,
+				BC2075AC1C33DD0800FFC688 /* CLClass.m */,
 				0AAD1AAA1C33CEFF0091CF16 /* ViewController.h */,
 				0AAD1AAB1C33CEFF0091CF16 /* ViewController.m */,
 				0AAD1AD71C33CF4C0091CF16 /* WFClass.h */,
@@ -285,6 +290,7 @@
 				0AAD1AA61C33CEFF0091CF16 /* main.m in Sources */,
 				A7F88E381C33DC6F00E887DD /* JGHClass.m in Sources */,
 				0AAD1AD91C33CF4C0091CF16 /* WFClass.m in Sources */,
+				BC2075AD1C33DD0800FFC688 /* CLClass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
