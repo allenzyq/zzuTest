@@ -42,6 +42,7 @@
 		BC945F251C33DDEA004D3453 /* YXLClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC945F241C33DDEA004D3453 /* YXLClass.m */; };
 		BC9BCDE01C33E55900BE7E5D /* LZWClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC9BCDDF1C33E55900BE7E5D /* LZWClass.m */; };
 		BCB0A7961C33F633006E1252 /* HGClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BCB0A7951C33F633006E1252 /* HGClass.m */; };
+		BCB0A7991C33F706006E1252 /* HHGGClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BCB0A7981C33F706006E1252 /* HHGGClass.m */; };
 		BCBA0B721C33E4D00049DCFA /* YCLClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BCBA0B711C33E4D00049DCFA /* YCLClass.m */; };
 		BCC392491C33F7FC00DD6A6E /* XWQClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BCC392481C33F7FC00DD6A6E /* XWQClass.m */; };
 		BCC43D681C33DCB200156C18 /* JZKClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BCC43D671C33DCB200156C18 /* JZKClass.m */; };
@@ -138,6 +139,8 @@
 		BC9BCDDF1C33E55900BE7E5D /* LZWClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LZWClass.m; sourceTree = "<group>"; };
 		BCB0A7941C33F633006E1252 /* HGClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HGClass.h; sourceTree = "<group>"; };
 		BCB0A7951C33F633006E1252 /* HGClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HGClass.m; sourceTree = "<group>"; };
+		BCB0A7971C33F706006E1252 /* HHGGClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHGGClass.h; sourceTree = "<group>"; };
+		BCB0A7981C33F706006E1252 /* HHGGClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHGGClass.m; sourceTree = "<group>"; };
 		BCBA0B701C33E4D00049DCFA /* YCLClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YCLClass.h; sourceTree = "<group>"; };
 		BCBA0B711C33E4D00049DCFA /* YCLClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YCLClass.m; sourceTree = "<group>"; };
 		BCC392471C33F7FC00DD6A6E /* XWQClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XWQClass.h; sourceTree = "<group>"; };
@@ -202,8 +205,21 @@
 			children = (
 				0AAD1AA71C33CEFF0091CF16 /* AppDelegate.h */,
 				0AAD1AA81C33CEFF0091CF16 /* AppDelegate.m */,
+<<<<<<< HEAD
 				BCC392471C33F7FC00DD6A6E /* XWQClass.h */,
 				BCC392481C33F7FC00DD6A6E /* XWQClass.m */,
+=======
+
+
+				BCB0A7971C33F706006E1252 /* HHGGClass.h */,
+				BCB0A7981C33F706006E1252 /* HHGGClass.m */,
+
+				BCC392471C33F7FC00DD6A6E /* XWQClass.h */,
+				BCC392481C33F7FC00DD6A6E /* XWQClass.m */,
+
+
+
+>>>>>>> 366c08afe51b4bd178278a91e3ee4a48bc9e44ec
 				B839379F1C33F46C00450D5C /* QXFClass.h */,
 				B83937A01C33F46C00450D5C /* QXFClass.m */,
 				BCB0A7941C33F633006E1252 /* HGClass.h */,
@@ -464,7 +480,11 @@
 				BC7D442C1C33F0930015B554 /* WSGClass.m in Sources */,
 				BC8A6BE81C33E4970078C114 /* XRNClass.m in Sources */,
 				2B7D46501C33EFCE007AF805 /* ZYQClass.m in Sources */,
+
+				BCB0A7991C33F706006E1252 /* HHGGClass.m in Sources */,
+
 				B83937A11C33F46C00450D5C /* QXFClass.m in Sources */,
+
 				BC0AD40C1C33DCC6007314CA /* RHWClass.m in Sources */,
 				951C810F1C33E5D200192442 /* WDXClass.m in Sources */,
 				BC4B1F0E1C33E7900049DA62 /* LCYClass.m in Sources */,
