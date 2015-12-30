@@ -36,22 +36,37 @@
     NSLog(@"邵秋实 151721");
 
     NSLog(@"陈璐 151729");
+
+    NSLog(@"王凡 9527");
+    
+
     NSLog(@"阎辉 151712");
-    
+    NSLog(@"肖若男 151711");
+
     NSLog(@"哈哈 171717");
+<<<<<<< HEAD
     
+=======
+
+     NSLog(@"杨明辉 151748");
+
+    NSLog(@"杨傻逼 542B542B");
+
+
+>>>>>>> a0d84a0158fdbb2472748a727cd6e31daec86072
 
     NSLog(@"SB   171000");
     NSLog(@"SB1 0000000000 ");
 
 
+
     NSLog(@"张鹏飞 15171016");
+    NSLog(@"马磊 15171054");
     NSLog(@"李传美 15171053");
+
     
     NSLog(@"张可 15171063");
 
-
-    // Override point for customization after application launch.
     return YES;
 }
 
