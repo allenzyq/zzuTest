@@ -23,7 +23,12 @@
     
     NSLog(@"王峰 000000");
     
+<<<<<<< HEAD
     NSLog(@"余洋 171022");
+=======
+    NSLog(@"曹福清 000067");
+    
+>>>>>>> 0993f384bab67cc8a33da1338fa49970f22962ff
     // Override point for customization after application launch.
     return YES;
 }
