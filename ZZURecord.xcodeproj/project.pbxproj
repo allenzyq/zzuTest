@@ -16,16 +16,6 @@
 		0AAD1ABF1C33CEFF0091CF16 /* ZZURecordTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1ABE1C33CEFF0091CF16 /* ZZURecordTests.m */; };
 		0AAD1ACA1C33CEFF0091CF16 /* ZZURecordUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1AC91C33CEFF0091CF16 /* ZZURecordUITests.m */; };
 		0AAD1AD91C33CF4C0091CF16 /* WFClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1AD81C33CF4C0091CF16 /* WFClass.m */; };
-<<<<<<< HEAD
-		A7F88E351C33D62A00E887DD /* JGH.m in Sources */ = {isa = PBXBuildFile; fileRef = A7F88E341C33D62A00E887DD /* JGH.m */; };
-		BC77FBB41C33D16B0070FEA8 /* CFQClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC77FBB31C33D16B0070FEA8 /* CFQClass.m */; };
-=======
-<<<<<<< HEAD
-		7B7440C21C33D3C9004D91B0 /* YYyClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7440C11C33D3C9004D91B0 /* YYyClass.m */; };
-=======
-		BC77FBB41C33D16B0070FEA8 /* CFQClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC77FBB31C33D16B0070FEA8 /* CFQClass.m */; };
->>>>>>> 0993f384bab67cc8a33da1338fa49970f22962ff
->>>>>>> 817ad44217ede8cc85cf7e6be982ae7ccfd4b70a
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,20 +54,6 @@
 		0AAD1ACB1C33CEFF0091CF16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AAD1AD71C33CF4C0091CF16 /* WFClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WFClass.h; sourceTree = "<group>"; };
 		0AAD1AD81C33CF4C0091CF16 /* WFClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WFClass.m; sourceTree = "<group>"; };
-<<<<<<< HEAD
-		A7F88E331C33D62A00E887DD /* JGH.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JGH.h; sourceTree = "<group>"; };
-		A7F88E341C33D62A00E887DD /* JGH.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JGH.m; sourceTree = "<group>"; };
-		BC77FBB21C33D16B0070FEA8 /* CFQClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFQClass.h; sourceTree = "<group>"; };
-		BC77FBB31C33D16B0070FEA8 /* CFQClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFQClass.m; sourceTree = "<group>"; };
-=======
-<<<<<<< HEAD
-		7B7440C01C33D3C9004D91B0 /* YYyClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYyClass.h; sourceTree = "<group>"; };
-		7B7440C11C33D3C9004D91B0 /* YYyClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYyClass.m; sourceTree = "<group>"; };
-=======
-		BC77FBB21C33D16B0070FEA8 /* CFQClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFQClass.h; sourceTree = "<group>"; };
-		BC77FBB31C33D16B0070FEA8 /* CFQClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFQClass.m; sourceTree = "<group>"; };
->>>>>>> 0993f384bab67cc8a33da1338fa49970f22962ff
->>>>>>> 817ad44217ede8cc85cf7e6be982ae7ccfd4b70a
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,24 +108,13 @@
 				0AAD1AA81C33CEFF0091CF16 /* AppDelegate.m */,
 				0AAD1AAA1C33CEFF0091CF16 /* ViewController.h */,
 				0AAD1AAB1C33CEFF0091CF16 /* ViewController.m */,
-<<<<<<< HEAD
 				0AAD1AD71C33CF4C0091CF16 /* WFClass.h */,
 				0AAD1AD81C33CF4C0091CF16 /* WFClass.m */,
-				A7F88E331C33D62A00E887DD /* JGH.h */,
-				A7F88E341C33D62A00E887DD /* JGH.m */,
-=======
-				7B7440C01C33D3C9004D91B0 /* YYyClass.h */,
-				7B7440C11C33D3C9004D91B0 /* YYyClass.m */,
-				0AAD1AD71C33CF4C0091CF16 /* WFClass.h */,
-				0AAD1AD81C33CF4C0091CF16 /* WFClass.m */,
->>>>>>> 817ad44217ede8cc85cf7e6be982ae7ccfd4b70a
 				0AAD1AAD1C33CEFF0091CF16 /* Main.storyboard */,
 				0AAD1AB01C33CEFF0091CF16 /* Assets.xcassets */,
 				0AAD1AB21C33CEFF0091CF16 /* LaunchScreen.storyboard */,
 				0AAD1AB51C33CEFF0091CF16 /* Info.plist */,
 				0AAD1AA41C33CEFF0091CF16 /* Supporting Files */,
-				BC77FBB21C33D16B0070FEA8 /* CFQClass.h */,
-				BC77FBB31C33D16B0070FEA8 /* CFQClass.m */,
 			);
 			path = ZZURecord;
 			sourceTree = "<group>";
@@ -311,18 +276,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0AAD1AAC1C33CEFF0091CF16 /* ViewController.m in Sources */,
-<<<<<<< HEAD
-				BC77FBB41C33D16B0070FEA8 /* CFQClass.m in Sources */,
 				0AAD1AA91C33CEFF0091CF16 /* AppDelegate.m in Sources */,
-				A7F88E351C33D62A00E887DD /* JGH.m in Sources */,
-=======
-<<<<<<< HEAD
-				7B7440C21C33D3C9004D91B0 /* YYyClass.m in Sources */,
-=======
-				BC77FBB41C33D16B0070FEA8 /* CFQClass.m in Sources */,
->>>>>>> 0993f384bab67cc8a33da1338fa49970f22962ff
-				0AAD1AA91C33CEFF0091CF16 /* AppDelegate.m in Sources */,
->>>>>>> 817ad44217ede8cc85cf7e6be982ae7ccfd4b70a
 				0AAD1AA61C33CEFF0091CF16 /* main.m in Sources */,
 				0AAD1AD91C33CF4C0091CF16 /* WFClass.m in Sources */,
 			);
@@ -550,7 +504,6 @@
 				0AAD1AD01C33CEFF0091CF16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		0AAD1AD11C33CEFF0091CF16 /* Build configuration list for PBXNativeTarget "ZZURecordTests" */ = {
 			isa = XCConfigurationList;
@@ -559,7 +512,6 @@
 				0AAD1AD31C33CEFF0091CF16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		0AAD1AD41C33CEFF0091CF16 /* Build configuration list for PBXNativeTarget "ZZURecordUITests" */ = {
 			isa = XCConfigurationList;
@@ -568,7 +520,6 @@
 				0AAD1AD61C33CEFF0091CF16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
