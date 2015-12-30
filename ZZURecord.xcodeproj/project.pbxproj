@@ -25,6 +25,7 @@
 		BC67852D1C33E2F100C38B6F /* LCMClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC67852C1C33E2F100C38B6F /* LCMClass.m */; };
 		BC794FBF1C33E01700F5CD37 /* YHClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC794FBE1C33E01700F5CD37 /* YHClass.m */; };
 		BC945F251C33DDEA004D3453 /* YXLClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC945F241C33DDEA004D3453 /* YXLClass.m */; };
+		BCBA0B721C33E4D00049DCFA /* YCLClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BCBA0B711C33E4D00049DCFA /* YCLClass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -81,6 +82,8 @@
 		BC794FBE1C33E01700F5CD37 /* YHClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YHClass.m; sourceTree = "<group>"; };
 		BC945F231C33DDEA004D3453 /* YXLClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YXLClass.h; sourceTree = "<group>"; };
 		BC945F241C33DDEA004D3453 /* YXLClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YXLClass.m; sourceTree = "<group>"; };
+		BCBA0B701C33E4D00049DCFA /* YCLClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YCLClass.h; sourceTree = "<group>"; };
+		BCBA0B711C33E4D00049DCFA /* YCLClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YCLClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +158,8 @@
 				A7F88E371C33DC6F00E887DD /* JGHClass.m */,
 				BC794FBD1C33E01700F5CD37 /* YHClass.h */,
 				BC794FBE1C33E01700F5CD37 /* YHClass.m */,
+				BCBA0B701C33E4D00049DCFA /* YCLClass.h */,
+				BCBA0B711C33E4D00049DCFA /* YCLClass.m */,
 				0AAD1AAD1C33CEFF0091CF16 /* Main.storyboard */,
 				0AAD1AB01C33CEFF0091CF16 /* Assets.xcassets */,
 				0AAD1AB21C33CEFF0091CF16 /* LaunchScreen.storyboard */,
@@ -331,6 +336,7 @@
 				BC945F251C33DDEA004D3453 /* YXLClass.m in Sources */,
 				BC574EF61C33E1240090617B /* ZPFClass.m in Sources */,
 				0AAD1AD91C33CF4C0091CF16 /* WFClass.m in Sources */,
+				BCBA0B721C33E4D00049DCFA /* YCLClass.m in Sources */,
 				BC0AD40C1C33DCC6007314CA /* RHWClass.m in Sources */,
 				BC2075AD1C33DD0800FFC688 /* CLClass.m in Sources */,
 			);
