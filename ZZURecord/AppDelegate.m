@@ -40,6 +40,8 @@
     NSLog(@"SB   171000");
     NSLog(@"SB1 0000000000 ");
 
+    NSLog(@"张鹏飞 15171016");
+    
     // Override point for customization after application launch.
     return YES;
 }
