@@ -78,8 +78,9 @@
     
     NSLog(@"贺二狗 1213312");
 
-
+    NSLog(@"zyq 7777777");
     return YES;
+ 
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
