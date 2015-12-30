@@ -16,11 +16,8 @@
 		0AAD1ABF1C33CEFF0091CF16 /* ZZURecordTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1ABE1C33CEFF0091CF16 /* ZZURecordTests.m */; };
 		0AAD1ACA1C33CEFF0091CF16 /* ZZURecordUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1AC91C33CEFF0091CF16 /* ZZURecordUITests.m */; };
 		0AAD1AD91C33CF4C0091CF16 /* WFClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1AD81C33CF4C0091CF16 /* WFClass.m */; };
-
 		2B7D46501C33EFCE007AF805 /* ZYQClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B7D464F1C33EFCE007AF805 /* ZYQClass.m */; };
-
 		4E5C91251C33F00400D02C9E /* LYCClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E5C91241C33F00400D02C9E /* LYCClass.m */; };
-
 		587ECF111C33E07800D83497 /* SqsClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 587ECF101C33E07800D83497 /* SqsClass.m */; };
 		9512469D1C33DEE300264A33 /* YRClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 9512469C1C33DEE300264A33 /* YRClass.m */; };
 		951C810F1C33E5D200192442 /* WDXClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 951C810E1C33E5D200192442 /* WDXClass.m */; };
@@ -29,6 +26,7 @@
 		A20A8D741C33E26D00DF4E31 /* MLClass.m in Sources */ = {isa = PBXBuildFile; fileRef = A20A8D731C33E26D00DF4E31 /* MLClass.m */; };
 		A7F88E381C33DC6F00E887DD /* JGHClass.m in Sources */ = {isa = PBXBuildFile; fileRef = A7F88E371C33DC6F00E887DD /* JGHClass.m */; };
 		BC0AD40C1C33DCC6007314CA /* RHWClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC0AD40B1C33DCC6007314CA /* RHWClass.m */; };
+		BC1938DE1C33F35000EF90E3 /* ZHClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC1938DD1C33F35000EF90E3 /* ZHClass.m */; };
 		BC2075AD1C33DD0800FFC688 /* CLClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC2075AC1C33DD0800FFC688 /* CLClass.m */; };
 		BC3AD1121C33E839005CBB6C /* ZDWClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC3AD1111C33E839005CBB6C /* ZDWClass.m */; };
 		BC4B1F0E1C33E7900049DA62 /* LCYClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC4B1F0D1C33E7900049DA62 /* LCYClass.m */; };
@@ -83,13 +81,10 @@
 		0AAD1ACB1C33CEFF0091CF16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AAD1AD71C33CF4C0091CF16 /* WFClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WFClass.h; sourceTree = "<group>"; };
 		0AAD1AD81C33CF4C0091CF16 /* WFClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WFClass.m; sourceTree = "<group>"; };
-
 		2B7D464E1C33EFCE007AF805 /* ZYQClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYQClass.h; sourceTree = "<group>"; };
 		2B7D464F1C33EFCE007AF805 /* ZYQClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYQClass.m; sourceTree = "<group>"; };
-
 		4E5C91231C33F00400D02C9E /* LYCClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYCClass.h; sourceTree = "<group>"; };
 		4E5C91241C33F00400D02C9E /* LYCClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYCClass.m; sourceTree = "<group>"; };
-
 		587ECF0F1C33E07800D83497 /* SqsClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SqsClass.h; sourceTree = "<group>"; };
 		587ECF101C33E07800D83497 /* SqsClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SqsClass.m; sourceTree = "<group>"; };
 		9512469B1C33DEE300264A33 /* YRClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YRClass.h; sourceTree = "<group>"; };
@@ -106,6 +101,8 @@
 		A7F88E371C33DC6F00E887DD /* JGHClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JGHClass.m; sourceTree = "<group>"; };
 		BC0AD40A1C33DCC6007314CA /* RHWClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RHWClass.h; sourceTree = "<group>"; };
 		BC0AD40B1C33DCC6007314CA /* RHWClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RHWClass.m; sourceTree = "<group>"; };
+		BC1938DC1C33F35000EF90E3 /* ZHClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZHClass.h; sourceTree = "<group>"; };
+		BC1938DD1C33F35000EF90E3 /* ZHClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZHClass.m; sourceTree = "<group>"; };
 		BC2075AB1C33DD0800FFC688 /* CLClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLClass.h; sourceTree = "<group>"; };
 		BC2075AC1C33DD0800FFC688 /* CLClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CLClass.m; sourceTree = "<group>"; };
 		BC3AD1101C33E839005CBB6C /* ZDWClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZDWClass.h; sourceTree = "<group>"; };
@@ -189,6 +186,8 @@
 			children = (
 				0AAD1AA71C33CEFF0091CF16 /* AppDelegate.h */,
 				0AAD1AA81C33CEFF0091CF16 /* AppDelegate.m */,
+				BC1938DC1C33F35000EF90E3 /* ZHClass.h */,
+				BC1938DD1C33F35000EF90E3 /* ZHClass.m */,
 				4E5C91231C33F00400D02C9E /* LYCClass.h */,
 				4E5C91241C33F00400D02C9E /* LYCClass.m */,
 				BC4B1F0C1C33E7900049DA62 /* LCYClass.h */,
@@ -408,6 +407,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC1938DE1C33F35000EF90E3 /* ZHClass.m in Sources */,
 				9512469D1C33DEE300264A33 /* YRClass.m in Sources */,
 				958A2C971C33E4D7008486A8 /* YMHClass.m in Sources */,
 				0AAD1AAC1C33CEFF0091CF16 /* ViewController.m in Sources */,
