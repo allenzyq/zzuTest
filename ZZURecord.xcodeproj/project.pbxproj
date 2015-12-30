@@ -19,6 +19,13 @@
 
 		9512469D1C33DEE300264A33 /* YRClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 9512469C1C33DEE300264A33 /* YRClass.m */; };
 		A7F88E381C33DC6F00E887DD /* JGHClass.m in Sources */ = {isa = PBXBuildFile; fileRef = A7F88E371C33DC6F00E887DD /* JGHClass.m */; };
+
+		BC945F251C33DDEA004D3453 /* YXLClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC945F241C33DDEA004D3453 /* YXLClass.m */; };
+
+
+		BC2075AD1C33DD0800FFC688 /* CLClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC2075AC1C33DD0800FFC688 /* CLClass.m */; };
+
+
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +68,12 @@
 		9512469C1C33DEE300264A33 /* YRClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YRClass.m; sourceTree = "<group>"; };
 		A7F88E361C33DC6F00E887DD /* JGHClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JGHClass.h; sourceTree = "<group>"; };
 		A7F88E371C33DC6F00E887DD /* JGHClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JGHClass.m; sourceTree = "<group>"; };
+		BC945F231C33DDEA004D3453 /* YXLClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YXLClass.h; sourceTree = "<group>"; };
+		BC945F241C33DDEA004D3453 /* YXLClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YXLClass.m; sourceTree = "<group>"; };
+
+		BC2075AB1C33DD0800FFC688 /* CLClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLClass.h; sourceTree = "<group>"; };
+		BC2075AC1C33DD0800FFC688 /* CLClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CLClass.m; sourceTree = "<group>"; };
+
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,10 +126,17 @@
 			children = (
 				0AAD1AA71C33CEFF0091CF16 /* AppDelegate.h */,
 				0AAD1AA81C33CEFF0091CF16 /* AppDelegate.m */,
+
+				BC2075AB1C33DD0800FFC688 /* CLClass.h */,
+				BC2075AC1C33DD0800FFC688 /* CLClass.m */,
+
 				9512469B1C33DEE300264A33 /* YRClass.h */,
 				9512469C1C33DEE300264A33 /* YRClass.m */,
+
 				0AAD1AAA1C33CEFF0091CF16 /* ViewController.h */,
 				0AAD1AAB1C33CEFF0091CF16 /* ViewController.m */,
+				BC945F231C33DDEA004D3453 /* YXLClass.h */,
+				BC945F241C33DDEA004D3453 /* YXLClass.m */,
 				0AAD1AD71C33CF4C0091CF16 /* WFClass.h */,
 				0AAD1AD81C33CF4C0091CF16 /* WFClass.m */,
 				A7F88E361C33DC6F00E887DD /* JGHClass.h */,
@@ -291,7 +311,9 @@
 				0AAD1AA91C33CEFF0091CF16 /* AppDelegate.m in Sources */,
 				0AAD1AA61C33CEFF0091CF16 /* main.m in Sources */,
 				A7F88E381C33DC6F00E887DD /* JGHClass.m in Sources */,
+				BC945F251C33DDEA004D3453 /* YXLClass.m in Sources */,
 				0AAD1AD91C33CF4C0091CF16 /* WFClass.m in Sources */,
+				BC2075AD1C33DD0800FFC688 /* CLClass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
