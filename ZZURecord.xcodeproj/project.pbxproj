@@ -16,11 +16,9 @@
 		0AAD1ABF1C33CEFF0091CF16 /* ZZURecordTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1ABE1C33CEFF0091CF16 /* ZZURecordTests.m */; };
 		0AAD1ACA1C33CEFF0091CF16 /* ZZURecordUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1AC91C33CEFF0091CF16 /* ZZURecordUITests.m */; };
 		0AAD1AD91C33CF4C0091CF16 /* WFClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1AD81C33CF4C0091CF16 /* WFClass.m */; };
-<<<<<<< HEAD
+
 		9512469D1C33DEE300264A33 /* YRClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 9512469C1C33DEE300264A33 /* YRClass.m */; };
-=======
 		A7F88E381C33DC6F00E887DD /* JGHClass.m in Sources */ = {isa = PBXBuildFile; fileRef = A7F88E371C33DC6F00E887DD /* JGHClass.m */; };
->>>>>>> 810c81eea0b3c302b8f2dbe5af099c6c4b21ae45
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,13 +57,10 @@
 		0AAD1ACB1C33CEFF0091CF16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AAD1AD71C33CF4C0091CF16 /* WFClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WFClass.h; sourceTree = "<group>"; };
 		0AAD1AD81C33CF4C0091CF16 /* WFClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WFClass.m; sourceTree = "<group>"; };
-<<<<<<< HEAD
 		9512469B1C33DEE300264A33 /* YRClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YRClass.h; sourceTree = "<group>"; };
 		9512469C1C33DEE300264A33 /* YRClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YRClass.m; sourceTree = "<group>"; };
-=======
 		A7F88E361C33DC6F00E887DD /* JGHClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JGHClass.h; sourceTree = "<group>"; };
 		A7F88E371C33DC6F00E887DD /* JGHClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JGHClass.m; sourceTree = "<group>"; };
->>>>>>> 810c81eea0b3c302b8f2dbe5af099c6c4b21ae45
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
