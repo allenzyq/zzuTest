@@ -29,7 +29,16 @@
     NSLog(@"吉冠虎 151770");
     NSLog(@"XXX  000000");
     NSLog(@"余洋  171022");
+
+
+    NSLog(@"陈璐 151729");
+
+    
+    NSLog(@"哈哈 171717");
+
+
     NSLog(@"SB   171000");
+
 
     // Override point for customization after application launch.
     return YES;
