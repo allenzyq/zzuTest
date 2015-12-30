@@ -16,6 +16,7 @@
 		0AAD1ABF1C33CEFF0091CF16 /* ZZURecordTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1ABE1C33CEFF0091CF16 /* ZZURecordTests.m */; };
 		0AAD1ACA1C33CEFF0091CF16 /* ZZURecordUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1AC91C33CEFF0091CF16 /* ZZURecordUITests.m */; };
 		0AAD1AD91C33CF4C0091CF16 /* WFClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1AD81C33CF4C0091CF16 /* WFClass.m */; };
+		4E5C91251C33F00400D02C9E /* LYCClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E5C91241C33F00400D02C9E /* LYCClass.m */; };
 		587ECF111C33E07800D83497 /* SqsClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 587ECF101C33E07800D83497 /* SqsClass.m */; };
 		9512469D1C33DEE300264A33 /* YRClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 9512469C1C33DEE300264A33 /* YRClass.m */; };
 		951C810F1C33E5D200192442 /* WDXClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 951C810E1C33E5D200192442 /* WDXClass.m */; };
@@ -75,6 +76,11 @@
 		0AAD1ACB1C33CEFF0091CF16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AAD1AD71C33CF4C0091CF16 /* WFClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WFClass.h; sourceTree = "<group>"; };
 		0AAD1AD81C33CF4C0091CF16 /* WFClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WFClass.m; sourceTree = "<group>"; };
+<<<<<<< HEAD
+=======
+		4E5C91231C33F00400D02C9E /* LYCClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYCClass.h; sourceTree = "<group>"; };
+		4E5C91241C33F00400D02C9E /* LYCClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYCClass.m; sourceTree = "<group>"; };
+>>>>>>> 4f3adcb93f187336790ea0a58be3a3825498cd44
 		587ECF0F1C33E07800D83497 /* SqsClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SqsClass.h; sourceTree = "<group>"; };
 		587ECF101C33E07800D83497 /* SqsClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SqsClass.m; sourceTree = "<group>"; };
 		9512469B1C33DEE300264A33 /* YRClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YRClass.h; sourceTree = "<group>"; };
@@ -169,6 +175,8 @@
 			children = (
 				0AAD1AA71C33CEFF0091CF16 /* AppDelegate.h */,
 				0AAD1AA81C33CEFF0091CF16 /* AppDelegate.m */,
+				4E5C91231C33F00400D02C9E /* LYCClass.h */,
+				4E5C91241C33F00400D02C9E /* LYCClass.m */,
 				BC4B1F0C1C33E7900049DA62 /* LCYClass.h */,
 				BC4B1F0D1C33E7900049DA62 /* LCYClass.m */,
 				956E605D1C33E05F00BC28C9 /* wangfan.h */,
@@ -383,6 +391,7 @@
 				9512469D1C33DEE300264A33 /* YRClass.m in Sources */,
 				958A2C971C33E4D7008486A8 /* YMHClass.m in Sources */,
 				0AAD1AAC1C33CEFF0091CF16 /* ViewController.m in Sources */,
+				4E5C91251C33F00400D02C9E /* LYCClass.m in Sources */,
 				956E605F1C33E05F00BC28C9 /* wangfan.m in Sources */,
 				587ECF111C33E07800D83497 /* SqsClass.m in Sources */,
 				BC8666161C33E9A5006FFFEA /* YYJClass.m in Sources */,
