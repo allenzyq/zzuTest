@@ -47,6 +47,8 @@
 
     NSLog(@"张鹏飞 15171016");
     NSLog(@"李传美 15171053");
+    
+    NSLog(@"张可 15171063");
 
 
     // Override point for customization after application launch.
