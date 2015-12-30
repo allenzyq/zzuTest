@@ -29,6 +29,8 @@
     NSLog(@"吉冠虎 151770");
     NSLog(@"XXX  000000");
     NSLog(@"余洋  171022");
+    
+    NSLog(@"贾振凯 000001");
 
     NSLog(@"任红伟 091066");
     NSLog(@"邵秋实 151721");
@@ -37,17 +39,21 @@
     NSLog(@"阎辉 151712");
     NSLog(@"肖若男 151711");
     NSLog(@"哈哈 171717");
+    NSLog(@"杨傻逼 542B542B");
 
 
     NSLog(@"SB   171000");
     NSLog(@"SB1 0000000000 ");
 
 
+
     NSLog(@"张鹏飞 15171016");
+    NSLog(@"马磊 15171054");
     NSLog(@"李传美 15171053");
 
+    
+    NSLog(@"张可 15171063");
 
-    // Override point for customization after application launch.
     return YES;
 }
 
