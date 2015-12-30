@@ -31,6 +31,7 @@
 		BC574EF61C33E1240090617B /* ZPFClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC574EF51C33E1240090617B /* ZPFClass.m */; };
 		BC67852D1C33E2F100C38B6F /* LCMClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC67852C1C33E2F100C38B6F /* LCMClass.m */; };
 		BC794FBF1C33E01700F5CD37 /* YHClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC794FBE1C33E01700F5CD37 /* YHClass.m */; };
+		BC7D442C1C33F0930015B554 /* WSGClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC7D442B1C33F0930015B554 /* WSGClass.m */; };
 		BC8666161C33E9A5006FFFEA /* YYJClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC8666151C33E9A5006FFFEA /* YYJClass.m */; };
 		BC8A6BE81C33E4970078C114 /* XRNClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC8A6BE71C33E4970078C114 /* XRNClass.m */; };
 		BC945F251C33DDEA004D3453 /* YXLClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC945F241C33DDEA004D3453 /* YXLClass.m */; };
@@ -105,6 +106,8 @@
 		BC67852C1C33E2F100C38B6F /* LCMClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LCMClass.m; sourceTree = "<group>"; };
 		BC794FBD1C33E01700F5CD37 /* YHClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YHClass.h; sourceTree = "<group>"; };
 		BC794FBE1C33E01700F5CD37 /* YHClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YHClass.m; sourceTree = "<group>"; };
+		BC7D442A1C33F0930015B554 /* WSGClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WSGClass.h; sourceTree = "<group>"; };
+		BC7D442B1C33F0930015B554 /* WSGClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WSGClass.m; sourceTree = "<group>"; };
 		BC8666141C33E9A5006FFFEA /* YYJClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYJClass.h; sourceTree = "<group>"; };
 		BC8666151C33E9A5006FFFEA /* YYJClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYJClass.m; sourceTree = "<group>"; };
 		BC8A6BE61C33E4970078C114 /* XRNClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XRNClass.h; sourceTree = "<group>"; };
@@ -195,6 +198,8 @@
 				0AAD1AAB1C33CEFF0091CF16 /* ViewController.m */,
 				BC9BCDDE1C33E55900BE7E5D /* LZWClass.h */,
 				BC9BCDDF1C33E55900BE7E5D /* LZWClass.m */,
+				BC7D442A1C33F0930015B554 /* WSGClass.h */,
+				BC7D442B1C33F0930015B554 /* WSGClass.m */,
 				BC945F231C33DDEA004D3453 /* YXLClass.h */,
 				BC945F241C33DDEA004D3453 /* YXLClass.m */,
 				0AAD1AD71C33CF4C0091CF16 /* WFClass.h */,
@@ -399,6 +404,7 @@
 				A20A8D741C33E26D00DF4E31 /* MLClass.m in Sources */,
 				BC574EF61C33E1240090617B /* ZPFClass.m in Sources */,
 				0AAD1AD91C33CF4C0091CF16 /* WFClass.m in Sources */,
+				BC7D442C1C33F0930015B554 /* WSGClass.m in Sources */,
 				BC8A6BE81C33E4970078C114 /* XRNClass.m in Sources */,
 				BC0AD40C1C33DCC6007314CA /* RHWClass.m in Sources */,
 				951C810F1C33E5D200192442 /* WDXClass.m in Sources */,
