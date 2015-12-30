@@ -40,6 +40,7 @@
 		BC9BCDE01C33E55900BE7E5D /* LZWClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC9BCDDF1C33E55900BE7E5D /* LZWClass.m */; };
 		BCBA0B721C33E4D00049DCFA /* YCLClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BCBA0B711C33E4D00049DCFA /* YCLClass.m */; };
 		BCC43D681C33DCB200156C18 /* JZKClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BCC43D671C33DCB200156C18 /* JZKClass.m */; };
+		BCF4CFF91C33F632003AF0DC /* WFFClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BCF4CFF81C33F632003AF0DC /* WFFClass.m */; };
 		BCF925621C33E24D00DC3822 /* HKClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BCF925611C33E24D00DC3822 /* HKClass.m */; };
 		E024009D1C33F4A700C270F2 /* WengClass.m in Sources */ = {isa = PBXBuildFile; fileRef = E024009C1C33F4A700C270F2 /* WengClass.m */; };
 /* End PBXBuildFile section */
@@ -128,6 +129,8 @@
 		BCBA0B711C33E4D00049DCFA /* YCLClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YCLClass.m; sourceTree = "<group>"; };
 		BCC43D661C33DCB200156C18 /* JZKClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JZKClass.h; sourceTree = "<group>"; };
 		BCC43D671C33DCB200156C18 /* JZKClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JZKClass.m; sourceTree = "<group>"; };
+		BCF4CFF71C33F632003AF0DC /* WFFClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WFFClass.h; sourceTree = "<group>"; };
+		BCF4CFF81C33F632003AF0DC /* WFFClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WFFClass.m; sourceTree = "<group>"; };
 		BCF925601C33E24D00DC3822 /* HKClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HKClass.h; sourceTree = "<group>"; };
 		BCF925611C33E24D00DC3822 /* HKClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HKClass.m; sourceTree = "<group>"; };
 		E024009B1C33F4A700C270F2 /* WengClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WengClass.h; sourceTree = "<group>"; };
@@ -196,6 +199,8 @@
 				BCF925611C33E24D00DC3822 /* HKClass.m */,
 				BC67852B1C33E2F100C38B6F /* LCMClass.h */,
 				BC67852C1C33E2F100C38B6F /* LCMClass.m */,
+				BCF4CFF71C33F632003AF0DC /* WFFClass.h */,
+				BCF4CFF81C33F632003AF0DC /* WFFClass.m */,
 				958A2C951C33E4D7008486A8 /* YMHClass.h */,
 				958A2C961C33E4D7008486A8 /* YMHClass.m */,
 				BC574EF41C33E1240090617B /* ZPFClass.h */,
@@ -408,6 +413,7 @@
 				BC1938DE1C33F35000EF90E3 /* ZHClass.m in Sources */,
 				9512469D1C33DEE300264A33 /* YRClass.m in Sources */,
 				958A2C971C33E4D7008486A8 /* YMHClass.m in Sources */,
+				BCF4CFF91C33F632003AF0DC /* WFFClass.m in Sources */,
 				0AAD1AAC1C33CEFF0091CF16 /* ViewController.m in Sources */,
 				4E5C91251C33F00400D02C9E /* LYCClass.m in Sources */,
 				956E605F1C33E05F00BC28C9 /* wangfan.m in Sources */,
