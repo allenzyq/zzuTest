@@ -23,6 +23,8 @@
     
     NSLog(@"王峰 000000");
     
+    NSLog(@"曹福清 000067");
+    
     // Override point for customization after application launch.
     return YES;
 }
