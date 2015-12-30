@@ -25,7 +25,11 @@
 
     NSLog(@"杨蕊 151746");
 
+<<<<<<< HEAD
 
+=======
+    NSLog(@"万世婷  151747");
+>>>>>>> 817ad44217ede8cc85cf7e6be982ae7ccfd4b70a
 
     NSLog(@"张韩 151745");
 
@@ -33,6 +37,7 @@
     
     NSLog(@"曹福清 000067");
     
+<<<<<<< HEAD
     NSLog(@"吉冠虎 151770");
     NSLog(@"XXX  000000");
 
@@ -40,6 +45,16 @@
     NSLog(@"曹福清 000067");
 
 
+=======
+
+    NSLog(@"XXX  000000");
+
+    NSLog(@"余洋  171022");
+
+
+    NSLog(@"曹福清 000067");
+    
+>>>>>>> 817ad44217ede8cc85cf7e6be982ae7ccfd4b70a
     // Override point for customization after application launch.
     return YES;
 }
