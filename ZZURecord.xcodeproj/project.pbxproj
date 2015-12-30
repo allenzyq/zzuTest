@@ -16,6 +16,7 @@
 		0AAD1ABF1C33CEFF0091CF16 /* ZZURecordTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1ABE1C33CEFF0091CF16 /* ZZURecordTests.m */; };
 		0AAD1ACA1C33CEFF0091CF16 /* ZZURecordUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1AC91C33CEFF0091CF16 /* ZZURecordUITests.m */; };
 		0AAD1AD91C33CF4C0091CF16 /* WFClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1AD81C33CF4C0091CF16 /* WFClass.m */; };
+		9512469D1C33DEE300264A33 /* YRClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 9512469C1C33DEE300264A33 /* YRClass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		0AAD1ACB1C33CEFF0091CF16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AAD1AD71C33CF4C0091CF16 /* WFClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WFClass.h; sourceTree = "<group>"; };
 		0AAD1AD81C33CF4C0091CF16 /* WFClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WFClass.m; sourceTree = "<group>"; };
+		9512469B1C33DEE300264A33 /* YRClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YRClass.h; sourceTree = "<group>"; };
+		9512469C1C33DEE300264A33 /* YRClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YRClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +109,8 @@
 			children = (
 				0AAD1AA71C33CEFF0091CF16 /* AppDelegate.h */,
 				0AAD1AA81C33CEFF0091CF16 /* AppDelegate.m */,
+				9512469B1C33DEE300264A33 /* YRClass.h */,
+				9512469C1C33DEE300264A33 /* YRClass.m */,
 				0AAD1AAA1C33CEFF0091CF16 /* ViewController.h */,
 				0AAD1AAB1C33CEFF0091CF16 /* ViewController.m */,
 				0AAD1AD71C33CF4C0091CF16 /* WFClass.h */,
@@ -275,6 +280,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9512469D1C33DEE300264A33 /* YRClass.m in Sources */,
 				0AAD1AAC1C33CEFF0091CF16 /* ViewController.m in Sources */,
 				0AAD1AA91C33CEFF0091CF16 /* AppDelegate.m in Sources */,
 				0AAD1AA61C33CEFF0091CF16 /* main.m in Sources */,
@@ -504,6 +510,7 @@
 				0AAD1AD01C33CEFF0091CF16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0AAD1AD11C33CEFF0091CF16 /* Build configuration list for PBXNativeTarget "ZZURecordTests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +519,7 @@
 				0AAD1AD31C33CEFF0091CF16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0AAD1AD41C33CEFF0091CF16 /* Build configuration list for PBXNativeTarget "ZZURecordUITests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +528,7 @@
 				0AAD1AD61C33CEFF0091CF16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
