@@ -20,7 +20,7 @@
     /**
      *  大家在这个下面打印以下内容 姓名 + 学号
      */
-    
+    NSLog(@"岳小龙 15111050");
     NSLog(@"王峰 000000");
     NSLog(@"杨蕊 151746");
     NSLog(@"万世婷  151747");
@@ -31,6 +31,23 @@
     NSLog(@"余洋  171022");
     
     NSLog(@"贾振凯 000001");
+
+    NSLog(@"任红伟 091066");
+    NSLog(@"邵秋实 151721");
+
+    NSLog(@"陈璐 151729");
+    NSLog(@"阎辉 151712");
+    
+    NSLog(@"哈哈 171717");
+
+
+    NSLog(@"SB   171000");
+    NSLog(@"SB1 0000000000 ");
+
+
+    NSLog(@"张鹏飞 15171016");
+    NSLog(@"李传美 15171053");
+
 
     // Override point for customization after application launch.
     return YES;
