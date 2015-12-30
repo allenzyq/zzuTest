@@ -16,6 +16,7 @@
 		0AAD1ABF1C33CEFF0091CF16 /* ZZURecordTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1ABE1C33CEFF0091CF16 /* ZZURecordTests.m */; };
 		0AAD1ACA1C33CEFF0091CF16 /* ZZURecordUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1AC91C33CEFF0091CF16 /* ZZURecordUITests.m */; };
 		0AAD1AD91C33CF4C0091CF16 /* WFClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAD1AD81C33CF4C0091CF16 /* WFClass.m */; };
+		BC0AD40C1C33DCC6007314CA /* RHWClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC0AD40B1C33DCC6007314CA /* RHWClass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		0AAD1ACB1C33CEFF0091CF16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AAD1AD71C33CF4C0091CF16 /* WFClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WFClass.h; sourceTree = "<group>"; };
 		0AAD1AD81C33CF4C0091CF16 /* WFClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WFClass.m; sourceTree = "<group>"; };
+		BC0AD40A1C33DCC6007314CA /* RHWClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RHWClass.h; sourceTree = "<group>"; };
+		BC0AD40B1C33DCC6007314CA /* RHWClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RHWClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				0AAD1AAB1C33CEFF0091CF16 /* ViewController.m */,
 				0AAD1AD71C33CF4C0091CF16 /* WFClass.h */,
 				0AAD1AD81C33CF4C0091CF16 /* WFClass.m */,
+				BC0AD40A1C33DCC6007314CA /* RHWClass.h */,
+				BC0AD40B1C33DCC6007314CA /* RHWClass.m */,
 				0AAD1AAD1C33CEFF0091CF16 /* Main.storyboard */,
 				0AAD1AB01C33CEFF0091CF16 /* Assets.xcassets */,
 				0AAD1AB21C33CEFF0091CF16 /* LaunchScreen.storyboard */,
@@ -279,6 +284,7 @@
 				0AAD1AA91C33CEFF0091CF16 /* AppDelegate.m in Sources */,
 				0AAD1AA61C33CEFF0091CF16 /* main.m in Sources */,
 				0AAD1AD91C33CF4C0091CF16 /* WFClass.m in Sources */,
+				BC0AD40C1C33DCC6007314CA /* RHWClass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -504,6 +510,7 @@
 				0AAD1AD01C33CEFF0091CF16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0AAD1AD11C33CEFF0091CF16 /* Build configuration list for PBXNativeTarget "ZZURecordTests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +519,7 @@
 				0AAD1AD31C33CEFF0091CF16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0AAD1AD41C33CEFF0091CF16 /* Build configuration list for PBXNativeTarget "ZZURecordUITests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +528,7 @@
 				0AAD1AD61C33CEFF0091CF16 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
