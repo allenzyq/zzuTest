@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4954E2596A9CE400806CB9F18520FF9DC253365C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A4BC58E35CC2902FC06AD4C49D47C2CC62E2ADF3" : 0,
+    "4954E2596A9CE400806CB9F18520FF9DC253365C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "39EFE609-EDB3-4A50-B07A-D51840A91B09",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A4BC58E35CC2902FC06AD4C49D47C2CC62E2ADF3" : "..",
+    "4954E2596A9CE400806CB9F18520FF9DC253365C" : "zzuTest\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ZZURecord",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ZZURecord.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zzuwangfeng\/zzuTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4954E2596A9CE400806CB9F18520FF9DC253365C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zzuwangfeng\/zzuTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A4BC58E35CC2902FC06AD4C49D47C2CC62E2ADF3"
+    }
+  ]
+}
