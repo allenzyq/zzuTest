@@ -31,6 +31,7 @@
 		BC2075AD1C33DD0800FFC688 /* CLClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC2075AC1C33DD0800FFC688 /* CLClass.m */; };
 		BC3AD1121C33E839005CBB6C /* ZDWClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC3AD1111C33E839005CBB6C /* ZDWClass.m */; };
 		BC4B1F0E1C33E7900049DA62 /* LCYClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC4B1F0D1C33E7900049DA62 /* LCYClass.m */; };
+		BC4D28A11C33FB3700954654 /* SZZClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC4D28A01C33FB3700954654 /* SZZClass.m */; };
 		BC574EF61C33E1240090617B /* ZPFClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC574EF51C33E1240090617B /* ZPFClass.m */; };
 		BC67852D1C33E2F100C38B6F /* LCMClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC67852C1C33E2F100C38B6F /* LCMClass.m */; };
 		BC794FBF1C33E01700F5CD37 /* YHClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC794FBE1C33E01700F5CD37 /* YHClass.m */; };
@@ -115,6 +116,8 @@
 		BC3AD1111C33E839005CBB6C /* ZDWClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZDWClass.m; sourceTree = "<group>"; };
 		BC4B1F0C1C33E7900049DA62 /* LCYClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LCYClass.h; sourceTree = "<group>"; };
 		BC4B1F0D1C33E7900049DA62 /* LCYClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LCYClass.m; sourceTree = "<group>"; };
+		BC4D289F1C33FB3700954654 /* SZZClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SZZClass.h; sourceTree = "<group>"; };
+		BC4D28A01C33FB3700954654 /* SZZClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SZZClass.m; sourceTree = "<group>"; };
 		BC574EF41C33E1240090617B /* ZPFClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZPFClass.h; sourceTree = "<group>"; };
 		BC574EF51C33E1240090617B /* ZPFClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZPFClass.m; sourceTree = "<group>"; };
 		BC67852B1C33E2F100C38B6F /* LCMClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LCMClass.h; sourceTree = "<group>"; };
@@ -199,18 +202,12 @@
 			children = (
 				0AAD1AA71C33CEFF0091CF16 /* AppDelegate.h */,
 				0AAD1AA81C33CEFF0091CF16 /* AppDelegate.m */,
-
 				BCC392471C33F7FC00DD6A6E /* XWQClass.h */,
 				BCC392481C33F7FC00DD6A6E /* XWQClass.m */,
-
-
 				B839379F1C33F46C00450D5C /* QXFClass.h */,
 				B83937A01C33F46C00450D5C /* QXFClass.m */,
-
-
 				BCB0A7941C33F633006E1252 /* HGClass.h */,
 				BCB0A7951C33F633006E1252 /* HGClass.m */,
-
 				BC1938DC1C33F35000EF90E3 /* ZHClass.h */,
 				BC1938DD1C33F35000EF90E3 /* ZHClass.m */,
 				4E5C91231C33F00400D02C9E /* LYCClass.h */,
@@ -269,6 +266,8 @@
 				BC3AD1111C33E839005CBB6C /* ZDWClass.m */,
 				BC8666141C33E9A5006FFFEA /* YYJClass.h */,
 				BC8666151C33E9A5006FFFEA /* YYJClass.m */,
+				BC4D289F1C33FB3700954654 /* SZZClass.h */,
+				BC4D28A01C33FB3700954654 /* SZZClass.m */,
 				0AAD1AAD1C33CEFF0091CF16 /* Main.storyboard */,
 				0AAD1AB01C33CEFF0091CF16 /* Assets.xcassets */,
 				0AAD1AB21C33CEFF0091CF16 /* LaunchScreen.storyboard */,
@@ -438,6 +437,7 @@
 			files = (
 				BC1938DE1C33F35000EF90E3 /* ZHClass.m in Sources */,
 				9512469D1C33DEE300264A33 /* YRClass.m in Sources */,
+				BC4D28A11C33FB3700954654 /* SZZClass.m in Sources */,
 				958A2C971C33E4D7008486A8 /* YMHClass.m in Sources */,
 				BCF4CFF91C33F632003AF0DC /* WFFClass.m in Sources */,
 				0AAD1AAC1C33CEFF0091CF16 /* ViewController.m in Sources */,
