@@ -40,6 +40,7 @@
 		BC9BCDE01C33E55900BE7E5D /* LZWClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BC9BCDDF1C33E55900BE7E5D /* LZWClass.m */; };
 		BCB0A7961C33F633006E1252 /* HGClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BCB0A7951C33F633006E1252 /* HGClass.m */; };
 		BCBA0B721C33E4D00049DCFA /* YCLClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BCBA0B711C33E4D00049DCFA /* YCLClass.m */; };
+		BCC392491C33F7FC00DD6A6E /* XWQClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BCC392481C33F7FC00DD6A6E /* XWQClass.m */; };
 		BCC43D681C33DCB200156C18 /* JZKClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BCC43D671C33DCB200156C18 /* JZKClass.m */; };
 		BCF4CFF91C33F632003AF0DC /* WFFClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BCF4CFF81C33F632003AF0DC /* WFFClass.m */; };
 		BCF925621C33E24D00DC3822 /* HKClass.m in Sources */ = {isa = PBXBuildFile; fileRef = BCF925611C33E24D00DC3822 /* HKClass.m */; };
@@ -82,7 +83,6 @@
 		0AAD1ACB1C33CEFF0091CF16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AAD1AD71C33CF4C0091CF16 /* WFClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WFClass.h; sourceTree = "<group>"; };
 		0AAD1AD81C33CF4C0091CF16 /* WFClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WFClass.m; sourceTree = "<group>"; };
-
 		2B7D464E1C33EFCE007AF805 /* ZYQClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYQClass.h; sourceTree = "<group>"; };
 		2B7D464F1C33EFCE007AF805 /* ZYQClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYQClass.m; sourceTree = "<group>"; };
 		4E5C91231C33F00400D02C9E /* LYCClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYCClass.h; sourceTree = "<group>"; };
@@ -131,6 +131,8 @@
 		BCB0A7951C33F633006E1252 /* HGClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HGClass.m; sourceTree = "<group>"; };
 		BCBA0B701C33E4D00049DCFA /* YCLClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YCLClass.h; sourceTree = "<group>"; };
 		BCBA0B711C33E4D00049DCFA /* YCLClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YCLClass.m; sourceTree = "<group>"; };
+		BCC392471C33F7FC00DD6A6E /* XWQClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XWQClass.h; sourceTree = "<group>"; };
+		BCC392481C33F7FC00DD6A6E /* XWQClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XWQClass.m; sourceTree = "<group>"; };
 		BCC43D661C33DCB200156C18 /* JZKClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JZKClass.h; sourceTree = "<group>"; };
 		BCC43D671C33DCB200156C18 /* JZKClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JZKClass.m; sourceTree = "<group>"; };
 		BCF4CFF71C33F632003AF0DC /* WFFClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WFFClass.h; sourceTree = "<group>"; };
@@ -191,6 +193,8 @@
 			children = (
 				0AAD1AA71C33CEFF0091CF16 /* AppDelegate.h */,
 				0AAD1AA81C33CEFF0091CF16 /* AppDelegate.m */,
+				BCC392471C33F7FC00DD6A6E /* XWQClass.h */,
+				BCC392481C33F7FC00DD6A6E /* XWQClass.m */,
 				BCB0A7941C33F633006E1252 /* HGClass.h */,
 				BCB0A7951C33F633006E1252 /* HGClass.m */,
 				BC1938DC1C33F35000EF90E3 /* ZHClass.h */,
@@ -423,6 +427,7 @@
 				0AAD1AAC1C33CEFF0091CF16 /* ViewController.m in Sources */,
 				4E5C91251C33F00400D02C9E /* LYCClass.m in Sources */,
 				956E605F1C33E05F00BC28C9 /* wangfan.m in Sources */,
+				BCC392491C33F7FC00DD6A6E /* XWQClass.m in Sources */,
 				587ECF111C33E07800D83497 /* SqsClass.m in Sources */,
 				E024009D1C33F4A700C270F2 /* WengClass.m in Sources */,
 				BC8666161C33E9A5006FFFEA /* YYJClass.m in Sources */,
