@@ -10,4 +10,6 @@
 
 @interface YMHClass : NSObject
 
+
+
 @end
